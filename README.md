@@ -10,7 +10,7 @@
 * Alimentación: Batería LiPo 2S (7.4V / 8.4V)
 * Ruedas: 2x Llantas de tracción para micromotores N20
 * Indicadores: 2x LEDs (para estados de calibración y arranque)
-* Placa base: PCB de diseño propio (fabricación en placa fenólica FR4)
+* Placa base: PCB de diseño propio (fabricación en placa con planchado)
 
 MEDIDAS:
 <img width="2909" height="3069" alt="medidas 2" src="https://github.com/user-attachments/assets/60f04562-352b-43bc-bedb-4f2f824053e2" />
