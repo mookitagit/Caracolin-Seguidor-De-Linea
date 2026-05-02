@@ -117,7 +117,7 @@ void loop() {
     lectura();
     PID();
     
-    // Si recibes el 1 lógico del control remoto para detenerlo
+    // control remoto para detenerlo
     if(go == 1){ 
       motores(-20, -20); 
       delay(50);         
@@ -125,7 +125,7 @@ void loop() {
     }
   }
   
-  // 2. BUCLE DE PARADA TOTAL (Jaula)
+  // 2. BUCLE DE PARADA TOTAL
   while(true){
     motores(0, 0); 
   }
