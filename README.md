@@ -1,3 +1,5 @@
+<img width="3024" height="4032" alt="medidas 2" src="https://github.com/user-attachments/assets/f6e649b0-a58c-48e0-87ac-bb43ca09c410" />
+<img width="3024" height="4032" alt="medidas 1" src="https://github.com/user-attachments/assets/ad9afdc3-b794-46a1-a5a2-9bf6742bcd7e" />
 # Caracolín - Robot Velocista
 
 ## Lista de Componentes (Hardware)
